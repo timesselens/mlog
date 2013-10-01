@@ -1,0 +1,15 @@
+{{template "header.html" .}}
+<section>
+<h2>Currently Active Processes</h2>
+{{range .}}
+<div><code>{{.}}</code></div>
+{{end}}
+</section>
+
+<section>
+<div class="console-container">
+    <div class="console">
+    </div>
+</div>
+</section>
+{{template "footer.html" .}}

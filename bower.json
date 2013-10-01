@@ -1,0 +1,21 @@
+{
+  "name": "mlog",
+  "version": "0.0.1",
+  "authors": [
+    "Tim Esselens <tim.esselens@gmail.com>"
+  ],
+  "description": "mlog",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "react": "~0.4.1"
+  }
+}

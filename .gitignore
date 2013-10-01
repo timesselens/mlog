@@ -1,0 +1,6 @@
+app/bower_components
+.*.sw?
+go/pkg
+go/src/code.google.com
+go/src/github.com
+*.test
